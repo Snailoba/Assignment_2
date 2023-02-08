@@ -1,0 +1,19 @@
+.box1 {
+  border: 3px solid black;
+  height: 40px;
+  width: 120px;
+  background-color: blueviolet;
+}
+.box2 {
+  position: absolute;
+  border: 3px solid black;
+  height: 30px;
+  width: 90px;
+  background-color: blue;
+}
+.box3 {
+  border: 3px solid black;
+  height: 40px;
+  width: 120px;
+  background-color: greenyellow;
+}
